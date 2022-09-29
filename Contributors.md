@@ -52,6 +52,7 @@
 - [Juniela Bautista](https://github.com/ellaiela)
 - [Ibtisam-Afzal](https://github.com/ibtisamafzal)
 - [Yash Gupta](https://github.com/YashGupta018)
+- [Guilherme Ambrósio](https://github.com/boredtbh)
 - [Chengxu Zhang](https://github.com/ChainShoe-Z)
 - [Awe Peter](https://github.com/peter-sq)
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
